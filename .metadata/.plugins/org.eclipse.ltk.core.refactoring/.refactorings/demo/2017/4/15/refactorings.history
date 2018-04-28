@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;sentence-feign/src/main/java/com.example.dao&apos;&#x0D;&#x0A;- Original project: &apos;demo&apos;&#x0D;&#x0A;- Destination element: &apos;sentence-feign/src/main/java/com.example.dao&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     VerbClient.java&#x0D;&#x0A;     AdjectiveClient.java&#x0D;&#x0A;     SubjectClient.java&#x0D;&#x0A;     ArticleClient.java&#x0D;&#x0A;     NounClient.java" description="Copy files" destination="=sentence-feign/src\/main\/java&lt;com.example.dao" element1="dao/VerbClient.java" element2="dao/AdjectiveClient.java" element3="dao/SubjectClient.java" element4="dao/ArticleClient.java" element5="dao/NounClient.java" files="5" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1491867200671" units="0" version="1.0"/>
+</session>

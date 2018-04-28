@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Word.java&apos; to &apos;sentence-feign/src/main/java/com.example.domain&apos;&#x0D;&#x0A;- Original project: &apos;domain&apos;&#x0D;&#x0A;- Destination element: &apos;sentence-feign/src/main/java/com.example.domain&apos;&#x0D;&#x0A;- Original element: &apos;Word.java&apos;" description="Copy file" destination="=sentence-feign/src\/main\/java&lt;com.example.domain" element1="Word.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1491789841781" units="0" version="1.0"/>
+</session>

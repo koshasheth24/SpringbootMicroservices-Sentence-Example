@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Word.java&apos; to &apos;noun-ribbon/src/main/java/com.example&apos;&#x0D;&#x0A;- Original project: &apos;noun-client&apos;&#x0D;&#x0A;- Destination element: &apos;noun-ribbon/src/main/java/com.example&apos;&#x0D;&#x0A;- Original element: &apos;com.example.Word.java&apos;" description="Copy compilation unit" destination="=noun-ribbon/src\/main\/java&lt;com.example" element1="/src\/main\/java&lt;com.example{Word.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1492019598797" units="1" version="1.0"/>
+</session>

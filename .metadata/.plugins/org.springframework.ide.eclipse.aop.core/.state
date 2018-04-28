@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spr-mvc-hib-master"/>
+<aop-project name="demo"/>
+<aop-project name="noun-ribbon"/>
+</aop-reference-model>
